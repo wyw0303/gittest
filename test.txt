@@ -22,3 +22,4 @@ commit test
 普通合并记录，多一个commit
 hhhhhhhhhhhhhh
 3333333333333
+bug finish
