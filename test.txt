@@ -16,3 +16,4 @@ git push -u origin master
 笑看风云
 
 郑少秋
+fast forword
